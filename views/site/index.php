@@ -9,7 +9,7 @@ $this->params['meta_keywords'] = 'химчистка, химчистка Бри�
 
 <div class="site-index">
     <!-- Баннер -->
-    <div class="banner p-5 mb-5 text-white rounded shadow fade-in">
+    <div class="banner p-5 mb-5 mt-5 text-white rounded shadow fade-in">
         <div class="container">
             <h1 class="display-4 fw-bold">Химчистка "Бриллиант"</h1>
             <p class="lead">Мы вернем вашим вещам первозданный вид!</p>
