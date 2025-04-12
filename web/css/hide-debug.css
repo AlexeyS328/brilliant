@@ -1,0 +1,17 @@
+/* Скрываем панель отладки Yii2 */
+#yii-debug-toolbar {
+    display: none !important;
+}
+
+/* Скрываем блок уведомления отладки */
+div.yii-debug-toolbar-top {
+    display: none !important;
+}
+
+div.yii-debug-toolbar-bottom {
+    display: none !important;
+}
+
+.yii-debug-toolbar {
+    display: none !important;
+} 
